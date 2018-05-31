@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<array name="genres">
+
+    <item>Classical/Instrumental</item>
+    <item>Country</item>
+    <item>Electro based music</item>
+    <item>Jazz</item>
+    <item>Pop music</item>
+    <item>Synthesized</item>
+    <item>Hip hop/Rap/Rock</item>
+
+</array>
+</resources>
